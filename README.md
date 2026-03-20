@@ -61,10 +61,6 @@ The leaderboard score outperforming the local validation score indicates strong 
 
 ## Usage
 
-```bash
-pip install -r requirements.txt
-```
-
 1. Download the dataset from [Kaggle Playground S5E5](https://www.kaggle.com/competitions/playground-series-s5e5)
 2. Place `train.csv` and `test.csv` in `/kaggle/input/playground-series-s5e5/`
 3. Run all cells in `calorie-expenditure-ensemble.ipynb`

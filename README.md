@@ -1,7 +1,7 @@
 # Kaggle Playground S5E5 — Calorie Expenditure Prediction
 
 **🥇 27th place out of 4,316 teams (Top 0.6%) | RMSLE: 0.05852** 
-
+ 
 Predicting calorie expenditure from exercise and biometric data using a Bayesian-tuned inverse-error weighted ensemble of gradient boosting models.
 
 ## Overview
